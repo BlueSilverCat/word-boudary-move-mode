@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-x": "wbmm:toggle",
+    "ctrl-alt-shift-x": "wbmm:toggle-auto-select"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "pathKeyBindings": {
+    "order": 1,
+    "type": "string",
+    "description": "Path to a keyBindings file",
+    "default": ""
+  },
+  "autoSelect": {
+    "type": "boolean",
+    "description": "If set this to ture, auto select word boundary or subword boundary",
+    "default": false
+  },
+  "subwordBoundary": {
+    "type": "boolean",
+    "description": "If set this to ture, move to subword boundary",
+    "default": true
+  }
+}
